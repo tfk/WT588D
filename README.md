@@ -33,7 +33,7 @@ The [user-manual](http://www.elechouse.com/elechouse/images/product/MP3%20WT588D
 ## Installing the WT588D Library
 
 1. Create a directory WT588D inside your libraries subdirectory of your sketchbook directory. 
-2. Copy the the WT588D.h and WT588D.cpp to the WT588D subdirectory.
+2. Copy the the WT588D.h, WT588D.cpp and keywords.txt to the WT588D subdirectory.
 3. Start the Arduino IDE.
 4. Create a new sketch and add the WT588D library via Sketch > Import > Library.
 
