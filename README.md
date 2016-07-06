@@ -30,12 +30,11 @@ The [user-manual](http://www.elechouse.com/elechouse/images/product/MP3%20WT588D
 
 	See section 2.12 of the user-manual.
 	
-## Installing the WT588D Library
+## Installing the WT588D library
 
-1. Create a directory WT588D inside your libraries subdirectory of your sketchbook directory. 
-2. Copy the the WT588D.h, WT588D.cpp and keywords.txt to the WT588D subdirectory.
-3. Start the Arduino IDE.
-4. Create a new sketch and add the WT588D library via Sketch > Import > Library.
+1. Start the Arduino IDE.
+2. Goto Sketch > Include Library > Add .ZIP Library and select the WT588D.zip 
+3. An example is now available via File > Examples > WT588D > LoopSound. Or you can import via Sketch > Include Library > WT588D.
 
 
 	
