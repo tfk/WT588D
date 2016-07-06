@@ -3,7 +3,7 @@ WT588D-library for Arduino using one-line mode.
 
 This library has been tested with a [Arduino Micro](https://www.arduino.cc/en/Main/ArduinoBoardMicro) and a WT588D-U-32M module.
 By using the one-line mode you need to connect only 3 wires(RESET, SDA, BUSY) to the board instead 5 wires(RESET, SDA, BUSY, CS, CLK) when using the three-line mode. 
-Both protocol-descriptions can be found in the [Specification](http://e-radionica.com/productdata/WT588D%20CHIP&MODULE%20DETAILED%20INFORMATION.pdf).
+Both protocol-descriptions can be found in the [specification](http://e-radionica.com/productdata/WT588D%20CHIP&MODULE%20DETAILED%20INFORMATION.pdf).
 
 ##Configure the WT588D board
 
