@@ -5,7 +5,7 @@ This library has been tested with a [Arduino Micro](https://www.arduino.cc/en/Ma
 By using the one-line mode you need to connect only 3 wires(RESET, SDA, BUSY) to the board instead 5 wires(RESET, SDA, BUSY, CS, CLK) when using the three-line mode. 
 Both protocol-descriptions can be found in the [specification](http://e-radionica.com/productdata/WT588D%20CHIP&MODULE%20DETAILED%20INFORMATION.pdf).
 
-##Configure the WT588D board
+## Configure the WT588D board
 
 The [user-manual](http://www.elechouse.com/elechouse/images/product/MP3%20WT588D%20USB%20module/WT588D%20software%20user%20manual.pdf) describes the configuration and upload process in detail.  
 
